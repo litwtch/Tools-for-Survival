@@ -34,6 +34,7 @@
   - [What Will You Do?](https://www.thenation.com/article/activism/rumeysa-ozturk-kaveh-akbar/)
   - [How to Enter the US With Your Digital Privacy Intact](https://www.wired.com/2017/02/guide-getting-past-customs-digital-privacy-intact/)
   - [If the Trump Administration Can Disappear Kilmar Abrego Garcia, It Can Disappear Anyone](https://ballsandstrikes.org/law-politics/kilmar-abrego-garcia-case-white-house/)
+  - [Traveling Internationally? What to Know About Airport Phone Searches at the US Border](https://www.kqed.org/news/12038914/what-can-you-do-if-cbp-asks-to-see-your-phone)
 
   ### Misinformation and Disinformation  
   - [Misinformation vs Disinformation: Understanding the difference online](https://counterhate.com/blog/misinformation-vs-disinformation-understanding-the-difference-online/?content=explainer)
