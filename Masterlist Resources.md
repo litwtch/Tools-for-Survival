@@ -76,7 +76,7 @@
 - **[Digital privacy and security measures for staying safe while protesting](https://blog.adafruit.com/2020/06/05/digital-privacy-and-security-measures-for-staying-safe-while-protesting/)**
 - [How To Be A Digital Revolutionary](https://www.adafruit.com/product/3532)
 - [12 PRACTICAL STEPS TO PROTECT YOUR DATA FROM THE MUSK-TRUMP CHAOS](https://emilyinyourphone.substack.com/p/12-practical-steps-to-protect-your)
-- [How to keep your private conversations private] (https://www.cnn.com/2025/02/09/tech/secure-chat-apps-signal-tor-browser/index.html)
+- [How to keep your private conversations private](https://www.cnn.com/2025/02/09/tech/secure-chat-apps-signal-tor-browser/index.html)
 - [Map of the Surveillance Tower Program at the US-Mexico Border](https://www.eff.org/deeplinks/2023/03/cbp-expanding-its-surveillance-tower-program-us-mexico-border-and-were-mapping-it)
 - [How to Use Signal Encrypted Messaging](https://www.wired.com/story/signal-tips-private-messaging-encryption/)
   - **[A Guide to Locking Down Signal](https://freedom.press/digisec/blog/locking-down-signal/#keep-your-phone-number-more-private)**
