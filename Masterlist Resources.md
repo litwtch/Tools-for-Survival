@@ -26,6 +26,7 @@
 - [Books Unbanned (Aimed at teens)](https://booksunbanned.com/)
 - **[Mutual Aid Hub](https://www.mutualaidhub.org/)**
 - [Deep Fakes Tracker](https://deepfakestracker.org/)
+- [Unlearning the myth of American innocence](https://www.theguardian.com/us-news/2017/aug/08/unlearning-the-myth-of-american-innocence)
 
     ### ICE/Immigration 
   - [Know Your Rights Cards](https://www.redcardorders.com/)
