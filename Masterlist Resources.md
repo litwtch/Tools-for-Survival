@@ -1,4 +1,4 @@
-###### Last Updated - May 07 2025
+###### Last Updated - May 09 2025
 
 ## General Resources to be More Informed
 - [Why it's time we change how we talk about conspiracy theories](https://www.cnn.com/2025/05/03/politics/persuadable-podcast-conspiracy-theories-essay)
@@ -61,6 +61,7 @@
   - [Huge, FREE covid safety resource list](https://www.patreon.com/posts/huge-free-covid-86871700)
   - **[The COVID Safety Handbook](https://linktr.ee/covidbook)**
   - [Reusable Respirator](https://reusable-respirators.com/product/elastomaskpro-respirator/)
+  - [Pandemic Mitigation Collaborative COVID Tracking Site](https://www.pmc19.com/data/index.php)
 
 ## Technology and Surveillance Resources
 - [Passkeys for Normal People](https://www.troyhunt.com/passkeys-for-normal-people/)
