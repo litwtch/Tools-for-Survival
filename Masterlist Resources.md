@@ -63,6 +63,12 @@
   - **[The COVID Safety Handbook](https://linktr.ee/covidbook)**
   - [Reusable Respirator](https://reusable-respirators.com/product/elastomaskpro-respirator/)
   - [Pandemic Mitigation Collaborative COVID Tracking Site](https://www.pmc19.com/data/index.php)
+  ### SolarPunk/HopePunk Resources
+  - [Low Tech Magazine](https://solar.lowtechmagazine.com/)
+  - [Urban Gardens](https://www.urbangardensweb.com/)
+  - [VIDEO -  What If We Ran The Economy?](https://www.youtube.com/watch?v=vW5EVNT--DA)
+  - [uH bench – open source public bench](https://xuv.be/uh-bench-open-source-public-bench/)
+  - [Story Seed Library](https://storyseedlibrary.org/)
 
 ## Technology and Surveillance Resources
 - [Passkeys for Normal People](https://www.troyhunt.com/passkeys-for-normal-people/)
