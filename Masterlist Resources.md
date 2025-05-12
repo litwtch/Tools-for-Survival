@@ -1,4 +1,4 @@
-###### Last Updated - May 09 2025
+###### Last Updated - May 12 2025
 
 ## General Resources to be More Informed
 - [Why it's time we change how we talk about conspiracy theories](https://www.cnn.com/2025/05/03/politics/persuadable-podcast-conspiracy-theories-essay)
@@ -27,6 +27,7 @@
 - **[Mutual Aid Hub](https://www.mutualaidhub.org/)**
 - [Deep Fakes Tracker](https://deepfakestracker.org/)
 - [Unlearning the myth of American innocence](https://www.theguardian.com/us-news/2017/aug/08/unlearning-the-myth-of-american-innocence)
+- **[Documenting the Damage: 100 Harmful Policies from the First 100 Days of Trump's Second Term](https://www.brettheinz.com/dd)**
 
     ### ICE/Immigration 
   - [Know Your Rights Cards](https://www.redcardorders.com/)
