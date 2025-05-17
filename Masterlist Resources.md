@@ -1,4 +1,4 @@
-###### Last Updated - May 12 2025
+###### Last Updated - May 17 2025
 
 ## General Resources to be More Informed
 - [Why it's time we change how we talk about conspiracy theories](https://www.cnn.com/2025/05/03/politics/persuadable-podcast-conspiracy-theories-essay)
@@ -29,13 +29,15 @@
 - [Unlearning the myth of American innocence](https://www.theguardian.com/us-news/2017/aug/08/unlearning-the-myth-of-american-innocence)
 - **[Documenting the Damage: 100 Harmful Policies from the First 100 Days of Trump's Second Term](https://www.brettheinz.com/dd)**
 
-    ### ICE/Immigration 
+
+    ### ICE/Immigration/Police
   - [Know Your Rights Cards](https://www.redcardorders.com/)
   - [Fear could be driving immigration fraud and scams. Here is how to protect yourself](https://houstonlanding.org/fear-could-be-driving-immigration-fraud-and-scams-here-is-how-to-protect-yourself/)
   - [What Will You Do?](https://www.thenation.com/article/activism/rumeysa-ozturk-kaveh-akbar/)
   - [How to Enter the US With Your Digital Privacy Intact](https://www.wired.com/2017/02/guide-getting-past-customs-digital-privacy-intact/)
   - [If the Trump Administration Can Disappear Kilmar Abrego Garcia, It Can Disappear Anyone](https://ballsandstrikes.org/law-politics/kilmar-abrego-garcia-case-white-house/)
   - [Traveling Internationally? What to Know About Airport Phone Searches at the US Border](https://www.kqed.org/news/12038914/what-can-you-do-if-cbp-asks-to-see-your-phone)
+  - [The Only 29 Words You Need to Say When You Get Pulled Over](https://bsky.app/profile/wizardafa.bsky.social/post/3lpdefo7ntk2j)
 
   ### Misinformation and Disinformation  
   - [Misinformation vs Disinformation: Understanding the difference online](https://counterhate.com/blog/misinformation-vs-disinformation-understanding-the-difference-online/?content=explainer)
