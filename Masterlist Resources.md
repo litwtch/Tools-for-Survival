@@ -1,4 +1,4 @@
-###### Last Updated - May 17 2025
+###### Last Updated - May 19 2025
 
 ## General Resources to be More Informed
 - [Why it's time we change how we talk about conspiracy theories](https://www.cnn.com/2025/05/03/politics/persuadable-podcast-conspiracy-theories-essay)
@@ -28,6 +28,7 @@
 - [Deep Fakes Tracker](https://deepfakestracker.org/)
 - [Unlearning the myth of American innocence](https://www.theguardian.com/us-news/2017/aug/08/unlearning-the-myth-of-american-innocence)
 - **[Documenting the Damage: 100 Harmful Policies from the First 100 Days of Trump's Second Term](https://www.brettheinz.com/dd)**
+- [36% Of Job Adverts Are Fake—How To Spot Them In 2024](https://www.forbes.com/sites/rachelwells/2024/08/13/36-of-job-adverts-are-fake-how-to-spot-them-in-2024/)
 
 
     ### ICE/Immigration/Police
@@ -95,6 +96,7 @@
 - [How to tell if your online accounts have been hacked](https://techcrunch.com/2025/03/25/how-to-tell-if-your-online-accounts-have-been-hacked/)
 - [Trump Wants to Merge Government Data. Here Are 314 Things It Might Know About You.](https://www.nytimes.com/2025/04/09/us/politics/trump-musk-data-access.html)
 - **[NCSC and partners share guidance for communities at high risk of digital surveillance](https://www.ncsc.gov.uk/news/ncsc-partners-share-guidance-for-communities-at-high-risk-of-digital-surveillance)**
+- [We Made Luigi Mangione’s 3D-Printed Gun—and Fired It](https://www.wired.com/story/luigi-mangione-ghost-gun-built-tested/)
 
 
 ## Personal Finance 
