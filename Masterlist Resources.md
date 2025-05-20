@@ -1,4 +1,4 @@
-###### Last Updated - May 19 2025
+###### Last Updated - May 20 2025
 
 ## General Resources to be More Informed
 - [Why it's time we change how we talk about conspiracy theories](https://www.cnn.com/2025/05/03/politics/persuadable-podcast-conspiracy-theories-essay)
@@ -29,7 +29,9 @@
 - [Unlearning the myth of American innocence](https://www.theguardian.com/us-news/2017/aug/08/unlearning-the-myth-of-american-innocence)
 - **[Documenting the Damage: 100 Harmful Policies from the First 100 Days of Trump's Second Term](https://www.brettheinz.com/dd)**
 - [36% Of Job Adverts Are Fake—How To Spot Them In 2024](https://www.forbes.com/sites/rachelwells/2024/08/13/36-of-job-adverts-are-fake-how-to-spot-them-in-2024/)
-
+- [How to Save a Democracy](https://www.foreignaffairs.com/united-states/how-save-democracy-trump)
+- [Redlining Shaped the Power Grid. Communities of Color Are Still Paying the Price.](https://www.motherjones.com/environment/2025/05/redlining-minority-neighborhoods-power-grid-energy-infrastructure-communities-color/)
+- [Lessons From a Mass Shooter’s Mother](https://www.motherjones.com/criminal-justice/2024/05/threat-assessment-mass-shooting-elliot-rodger-isla-vista-mother/)
 
     ### ICE/Immigration/Police
   - [Know Your Rights Cards](https://www.redcardorders.com/)
@@ -66,6 +68,7 @@
   - **[The COVID Safety Handbook](https://linktr.ee/covidbook)**
   - [Reusable Respirator](https://reusable-respirators.com/product/elastomaskpro-respirator/)
   - [Pandemic Mitigation Collaborative COVID Tracking Site](https://www.pmc19.com/data/index.php)
+  - [A Chronically Ill Earth: COVID Organizing as a Model Climate Response in Los Angeles](https://yaleglobalhealthreview.com/2025/05/18/a-chronically-ill-earth-covid-organizing-as-a-model-climate-response-in-los-angeles/)
   ### SolarPunk/HopePunk Resources
   - [Low Tech Magazine](https://solar.lowtechmagazine.com/)
   - [Urban Gardens](https://www.urbangardensweb.com/)
