@@ -1,4 +1,4 @@
-###### Last Updated - May 20 2025
+###### Last Updated - May 27 2025
 
 ## General Resources to be More Informed
 - [Why it's time we change how we talk about conspiracy theories](https://www.cnn.com/2025/05/03/politics/persuadable-podcast-conspiracy-theories-essay)
@@ -32,6 +32,10 @@
 - [How to Save a Democracy](https://www.foreignaffairs.com/united-states/how-save-democracy-trump)
 - [Redlining Shaped the Power Grid. Communities of Color Are Still Paying the Price.](https://www.motherjones.com/environment/2025/05/redlining-minority-neighborhoods-power-grid-energy-infrastructure-communities-color/)
 - [Lessons From a Mass Shooter’s Mother](https://www.motherjones.com/criminal-justice/2024/05/threat-assessment-mass-shooting-elliot-rodger-isla-vista-mother/)
+- [The Logistics of Road War in the Wasteland](https://acoup.blog/2025/05/23/collections-the-logistics-of-road-war-in-the-wasteland/)
+- [The Revolution Will Not Be Tax Deductible ](https://wgdoingthework.substack.com/p/the-revolution-will-not-be-tax-deductible)
+- [Asexuality and Resisting Pro-Natalism](https://cantonwiner.substack.com/p/asexuality-and-resisting-pro-natalism)
+- [100 Practical Life Skills That Every 18-Year-Old Should Have](https://katherinemartinko.substack.com/p/100-practical-life-skills-that-every)
 
     ### ICE/Immigration/Police
   - [Know Your Rights Cards](https://www.redcardorders.com/)
@@ -79,6 +83,7 @@
 ## Technology and Surveillance Resources
 - [Passkeys for Normal People](https://www.troyhunt.com/passkeys-for-normal-people/)
 - **[Digital Redlining: What It Is and How It Continues to Impact Communities](https://www.cnet.com/home/internet/digital-redlining-and-its-enduring-impact-on-communities/)**
+- [7 Concerning Levels Of Acoustic Spying Techniques(VIDEO)](https://www.youtube.com/watch?v=mEC6PM97IRI)
 - [Street Level Surveillance](https://sls.eff.org/)
 - [The Powerful AI Tool That Cops (or Stalkers) Can Use to Geolocate Photos in Seconds](https://www.404media.co/the-powerful-ai-tool-that-cops-or-stalkers-can-use-to-geolocate-photos-in-seconds/)
 - [The WIRED Guide to Protecting Yourself From Government Surveillance](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
@@ -100,7 +105,10 @@
 - [Trump Wants to Merge Government Data. Here Are 314 Things It Might Know About You.](https://www.nytimes.com/2025/04/09/us/politics/trump-musk-data-access.html)
 - **[NCSC and partners share guidance for communities at high risk of digital surveillance](https://www.ncsc.gov.uk/news/ncsc-partners-share-guidance-for-communities-at-high-risk-of-digital-surveillance)**
 - [We Made Luigi Mangione’s 3D-Printed Gun—and Fired It](https://www.wired.com/story/luigi-mangione-ghost-gun-built-tested/)
-
+- [The invisible front: Ukraine’s IT army and the evolution of cyber resistance](https://www.tandfonline.com/doi/full/10.1080/1060586X.2025.2503658)
+- **[You Want a VPN for Your Phone, Because Apps.](https://remyhax.xyz/posts/you-want-a-vpn-for-your-phone/)**
+- **[Advanced Protection: Google’s Strongest Security for Mobile Devices](https://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html)**
+- [Here's the source code for the unofficial Signal app used by Trump officials](https://micahflee.com/heres-the-source-code-for-the-unofficial-signal-app-used-by-trump-officials/)
 
 ## Personal Finance 
 - [Preparing our finances for a fascist regime](https://www.healthyrich.co/p/resistance-money)
