@@ -1,4 +1,4 @@
-###### Last Updated - May 27 2025
+###### Last Updated - May 29 2025
 
 ## General Resources to be More Informed
 - [Why it's time we change how we talk about conspiracy theories](https://www.cnn.com/2025/05/03/politics/persuadable-podcast-conspiracy-theories-essay)
@@ -26,6 +26,7 @@
 - [Books Unbanned (Aimed at teens)](https://booksunbanned.com/)
 - **[Mutual Aid Hub](https://www.mutualaidhub.org/)**
 - [Deep Fakes Tracker](https://deepfakestracker.org/)
+- [How to Defeat Authoritarianism in the United States](https://www.freepress.net/blog/how-defeat-authoritarianism-united-states)
 - [Unlearning the myth of American innocence](https://www.theguardian.com/us-news/2017/aug/08/unlearning-the-myth-of-american-innocence)
 - **[Documenting the Damage: 100 Harmful Policies from the First 100 Days of Trump's Second Term](https://www.brettheinz.com/dd)**
 - [36% Of Job Adverts Are Fake—How To Spot Them In 2024](https://www.forbes.com/sites/rachelwells/2024/08/13/36-of-job-adverts-are-fake-how-to-spot-them-in-2024/)
@@ -52,6 +53,7 @@
   - [We Need to Talk About Misinformation and Disinformation (Podcast)](https://www.youtube.com/watch?v=-DyNqsF1ptI)
   - [Propaganda & Disinformation - Level 1 (Beginners)](https://www.udemy.com/course/propaganda-disinformation-level-1-beginners/?referralCode=F6D164B12D33A03ADF60&couponCode=ST6MT60525G3)
   - [Quick Tips to Fact-Check Like a Pro](https://matthewfacciani.substack.com/p/quick-tips-to-fact-check-like-a-pro)
+  - [On Disordered Discourse](https://loki47.substack.com/p/on-disordered-discourse)
 
 ## Climate and Health Related Resources
 - [List of Superfund sites](https://en.wikipedia.org/wiki/List_of_Superfund_sites)
