@@ -1,6 +1,6 @@
-###### Last Updated - May 29 2025
+###### Last Updated - June 13 2025
 
-## General Resources to be More Informed
+## Resources to be more Informed 
 - [Why it's time we change how we talk about conspiracy theories](https://www.cnn.com/2025/05/03/politics/persuadable-podcast-conspiracy-theories-essay)
 - [Yes, You Can Opt Out of TSA Facial Recognition - Here's Why Experts Say You Should](https://www.travelandleisure.com/how-to-opt-out-tsa-facial-recognition-at-airport-11726739)
 - **[How to Be Kind in a World That’s Always Monitoring You](https://time.com/7273469/data-monitoring-kindness-essay)**
@@ -11,9 +11,10 @@
 - [Breaking News Consumer's Handbook: Fake News Edition](https://www.wnycstudios.org/podcasts/otm/segments/breaking-news-consumer-handbook-fake-news-edition)
 - [The rise of end times fascism](https://www.theguardian.com/us-news/ng-interactive/2025/apr/13/end-times-fascism-far-right-trump-musk)
 - **[How to Think (and Act) Like a Dissident Movement](https://www.thebulwark.com/p/how-to-think-and-act-like-a-dissident-in-trumps-america)**
-  - [How Do I Take Action Where I Am?](https://prisonculture.substack.com/p/how-do-i-take-action-where-i-am?r=iw9zm&triedRedirect=true&ref=organizingmythoughts.org)
-  - [A Threat Model for Opposing Authoritarianism](https://buttondown.com/JuliaAngwin/archive/a-threat-model-for-opposing-authoritarianism/)
-  - [So You Want to Be a Dissident?](https://www.newyorker.com/news/the-weekend-essay/so-you-want-to-be-a-dissident)
+- [How Do I Take Action Where I Am?](https://prisonculture.substack.com/p/how-do-i-take-action-where-i-am?r=iw9zm&triedRedirect=true&ref=organizingmythoughts.org)
+- [A Threat Model for Opposing Authoritarianism](https://buttondown.com/JuliaAngwin/archive/a-threat-model-for-opposing-authoritarianism/)
+- **[Your State-by-State Guide to Every State Supreme Court](https://boltsmag.org/whats-on-the-ballot/state-supreme-courts/)**
+- [So You Want to Be a Dissident?](https://www.newyorker.com/news/the-weekend-essay/so-you-want-to-be-a-dissident)
 - [You Can’t Post Your Way Out of Fascism](https://www.404media.co/you-cant-post-your-way-out-of-fascism/)
 - [How *you* can protect democracy](https://www.ifyoucankeepit.org/p/how-you-can-protect-democracy)
 - [EVERYTHING you need to know about CALLING YOUR REPS](https://emilyinyourphone.substack.com/p/everything-you-need-to-know-about?r=axllp&triedRedirect=true)
@@ -33,6 +34,7 @@
 - [How to Save a Democracy](https://www.foreignaffairs.com/united-states/how-save-democracy-trump)
 - [Redlining Shaped the Power Grid. Communities of Color Are Still Paying the Price.](https://www.motherjones.com/environment/2025/05/redlining-minority-neighborhoods-power-grid-energy-infrastructure-communities-color/)
 - [Lessons From a Mass Shooter’s Mother](https://www.motherjones.com/criminal-justice/2024/05/threat-assessment-mass-shooting-elliot-rodger-isla-vista-mother/)
+- [It matters. I care.](https://www.citationneeded.news/it-matters-i-care/) 
 - [The Logistics of Road War in the Wasteland](https://acoup.blog/2025/05/23/collections-the-logistics-of-road-war-in-the-wasteland/)
 - [The Revolution Will Not Be Tax Deductible ](https://wgdoingthework.substack.com/p/the-revolution-will-not-be-tax-deductible)
 - [Asexuality and Resisting Pro-Natalism](https://cantonwiner.substack.com/p/asexuality-and-resisting-pro-natalism)
@@ -83,6 +85,7 @@
   - [Story Seed Library](https://storyseedlibrary.org/)
 
 ## Technology and Surveillance Resources
+- **[How to Protest Safely in the Age of Surveillance](https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/)**
 - [Passkeys for Normal People](https://www.troyhunt.com/passkeys-for-normal-people/)
 - **[Digital Redlining: What It Is and How It Continues to Impact Communities](https://www.cnet.com/home/internet/digital-redlining-and-its-enduring-impact-on-communities/)**
 - [7 Concerning Levels Of Acoustic Spying Techniques(VIDEO)](https://www.youtube.com/watch?v=mEC6PM97IRI)
@@ -115,6 +118,7 @@
 ## Personal Finance 
 - [Preparing our finances for a fascist regime](https://www.healthyrich.co/p/resistance-money)
 - [7 money tips for surviving the Trump Administration](https://queerandtranswealth.substack.com/p/7-money-tips-for-surviving-the-trump)
+- [Using debt is not ‘living beyond your means’](https://www.healthyrich.co/p/using-debt)
 
 ## Layoff/Job Related Topics 
 - [Following Layoffs, Automattic Employees Discover Leak-Catching Watermarks](https://www.404media.co/automattic-wordpress-p2-watermark-leakers/)
