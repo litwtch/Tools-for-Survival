@@ -1,4 +1,4 @@
-###### Last Updated - June 13 2025
+###### Last Updated - June 19 2025
 
 ## Resources to be more Informed 
 - [Why it's time we change how we talk about conspiracy theories](https://www.cnn.com/2025/05/03/politics/persuadable-podcast-conspiracy-theories-essay)
@@ -27,6 +27,8 @@
 - [Books Unbanned (Aimed at teens)](https://booksunbanned.com/)
 - **[Mutual Aid Hub](https://www.mutualaidhub.org/)**
 - [Deep Fakes Tracker](https://deepfakestracker.org/)
+- [As ICE Protests Ramp Up, Organizers and Thinkers Share Lessons From the 2020 Uprising for Black Lives](https://www.teenvogue.com/story/organizers-and-thinkers-share-lessons-from-the-2020-protests)
+- [Lessons from Resisting Big Tech Power in Southeast Asia](https://www.techpolicy.press/lessons-from-resisting-big-tech-power-in-southeast-asia/)
 - [How to Defeat Authoritarianism in the United States](https://www.freepress.net/blog/how-defeat-authoritarianism-united-states)
 - [Unlearning the myth of American innocence](https://www.theguardian.com/us-news/2017/aug/08/unlearning-the-myth-of-american-innocence)
 - **[Documenting the Damage: 100 Harmful Policies from the First 100 Days of Trump's Second Term](https://www.brettheinz.com/dd)**
@@ -42,6 +44,7 @@
 
     ### ICE/Immigration/Police
   - [Know Your Rights Cards](https://www.redcardorders.com/)
+  - [How to Protect Yourself From Phone Searches at the US Border](https://www.wired.com/story/how-to-protect-yourself-from-phone-searches-at-the-us-border/#intcid=_wired-article-bottom-recirc_8e29c0e4-ceca-48ff-9ba0-2b8506cef7ff_roberta-similarity1)
   - [Fear could be driving immigration fraud and scams. Here is how to protect yourself](https://houstonlanding.org/fear-could-be-driving-immigration-fraud-and-scams-here-is-how-to-protect-yourself/)
   - [What Will You Do?](https://www.thenation.com/article/activism/rumeysa-ozturk-kaveh-akbar/)
   - [How to Enter the US With Your Digital Privacy Intact](https://www.wired.com/2017/02/guide-getting-past-customs-digital-privacy-intact/)
@@ -85,10 +88,17 @@
   - [Story Seed Library](https://storyseedlibrary.org/)
 
 ## Technology and Surveillance Resources
+- [iR0nin](https://ir0nin.com/about.php)
+- [6 Tools for Tracking the Trump Administration’s Attacks on Civil Liberties](https://www.teenvogue.com/story/6-tools-for-tracking-the-trump-administrations-attacks-on-civil-liberties)
 - **[How to Protest Safely in the Age of Surveillance](https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/)**
 - [Passkeys for Normal People](https://www.troyhunt.com/passkeys-for-normal-people/)
+- [A Starter Guide to Protecting Your Data From Hackers and Corporations](https://www.wired.com/story/guide-protect-data-from-hackers-corporations/#intcid=_wired-article-bottom-recirc_8e29c0e4-ceca-48ff-9ba0-2b8506cef7ff_roberta-similarity1)
+- [How to Win a Fight](https://www.wired.com/how-to-win-a-fight/)
+- [The Online Tools That Fueled ‘No Kings’ and the Trump Resistance](https://www.wired.com/story/technology-tools-donald-trump-resistance/)
 - **[Digital Redlining: What It Is and How It Continues to Impact Communities](https://www.cnet.com/home/internet/digital-redlining-and-its-enduring-impact-on-communities/)**
+-**[The Privacy-Friendly Tech to Replace Your US-Based Email, Browser, and Search](https://www.wired.com/story/the-privacy-friendly-tech-to-replace-your-us-based-email-browser-and-search/)**
 - [7 Concerning Levels Of Acoustic Spying Techniques(VIDEO)](https://www.youtube.com/watch?v=mEC6PM97IRI)
+- [Strategies for Resisting Tech-Enabled Violence Facing Transgender People](https://www.eff.org/deeplinks/2025/06/strategies-resisting-tech-enabled-violence-facing-transgender-people)
 - [Street Level Surveillance](https://sls.eff.org/)
 - [The Powerful AI Tool That Cops (or Stalkers) Can Use to Geolocate Photos in Seconds](https://www.404media.co/the-powerful-ai-tool-that-cops-or-stalkers-can-use-to-geolocate-photos-in-seconds/)
 - [The WIRED Guide to Protecting Yourself From Government Surveillance](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
@@ -122,3 +132,5 @@
 
 ## Layoff/Job Related Topics 
 - [Following Layoffs, Automattic Employees Discover Leak-Catching Watermarks](https://www.404media.co/automattic-wordpress-p2-watermark-leakers/)
+- [Laid Off: And Building Community Without Keeping Score](https://laid0ff.substack.com/p/laid-off-and-treating-community-like)
+- [How to Avoid Job Scams on Social Media Platforms Like Instagram and TikTok](https://www.teenvogue.com/story/how-avoid-job-scams-social-media)
