@@ -1,4 +1,14 @@
-###### Last Updated - June 19 2025
+###### Last Updated - July 27 2025
+
+## Community Building + Culture 
+- **[A megalist of tools for building community](https://grouphug.substack.com/p/a-megalist-of-tools-for-building)**
+- [compression culture is making you stupid and uninteresting](https://maalvika.substack.com/p/compression-culture-is-making-you)
+- [Where to find media to consume instead of doomscrolling](https://mapusssy.substack.com/p/where-to-find-media-to-consume-instead)
+- [How to Survive a Queer Kink Libricide](https://drdevonprice.substack.com/p/how-to-survive-a-queer-kink-libricide)
+
+### D-I-Y Learning 
+  - [How to Start Researching as a Hobby](sarahschauer.substack.com/p/how-to-start-to-researching-as-a)
+  - [How to Create Your Own University Course to Teach Yourself Almost Anything](https://parknotes.substack.com/p/how-to-create-your-own-university)
 
 ## Resources to be more Informed 
 - [Why it's time we change how we talk about conspiracy theories](https://www.cnn.com/2025/05/03/politics/persuadable-podcast-conspiracy-theories-essay)
@@ -42,7 +52,7 @@
 - [Asexuality and Resisting Pro-Natalism](https://cantonwiner.substack.com/p/asexuality-and-resisting-pro-natalism)
 - [100 Practical Life Skills That Every 18-Year-Old Should Have](https://katherinemartinko.substack.com/p/100-practical-life-skills-that-every)
 
-    ### ICE/Immigration/Police
+  ### ICE/Immigration/Police
   - [Know Your Rights Cards](https://www.redcardorders.com/)
   - [How to Protect Yourself From Phone Searches at the US Border](https://www.wired.com/story/how-to-protect-yourself-from-phone-searches-at-the-us-border/#intcid=_wired-article-bottom-recirc_8e29c0e4-ceca-48ff-9ba0-2b8506cef7ff_roberta-similarity1)
   - [Fear could be driving immigration fraud and scams. Here is how to protect yourself](https://houstonlanding.org/fear-could-be-driving-immigration-fraud-and-scams-here-is-how-to-protect-yourself/)
@@ -73,6 +83,7 @@
 - [6 Creative Ways People Are Preserving Nature—And You Can Too](https://www.sciencefriday.com/articles/tiny-nature-triumphs-protecting-nature-roundup/)
 - [If You’re Pregnant, Here’s What You Should Know About the Medical Procedures That Could Save Your Life](https://www.propublica.org/article/miscarriage-abortion-bans-dilation-and-curettage-dilation-and-evacuation)
 - [How to survive a healthcare apocalypse: Top 10 tips from two critical care physicians](https://takeacouchnap.substack.com/p/how-to-survive-a-healthcare-apocalypse)
+
   ### COVID Specific Resources
   - [What's in your Covid Emergency Kit?](https://www.patreon.com/posts/whats-in-your-110263473)
   - [Huge, FREE covid safety resource list](https://www.patreon.com/posts/huge-free-covid-86871700)
@@ -80,7 +91,8 @@
   - [Reusable Respirator](https://reusable-respirators.com/product/elastomaskpro-respirator/)
   - [Pandemic Mitigation Collaborative COVID Tracking Site](https://www.pmc19.com/data/index.php)
   - [A Chronically Ill Earth: COVID Organizing as a Model Climate Response in Los Angeles](https://yaleglobalhealthreview.com/2025/05/18/a-chronically-ill-earth-covid-organizing-as-a-model-climate-response-in-los-angeles/)
-  ### SolarPunk/HopePunk Resources
+
+   ### SolarPunk/HopePunk Resources
   - [Low Tech Magazine](https://solar.lowtechmagazine.com/)
   - [Urban Gardens](https://www.urbangardensweb.com/)
   - [VIDEO -  What If We Ran The Economy?](https://www.youtube.com/watch?v=vW5EVNT--DA)
